@@ -12,7 +12,7 @@
 
 ## 🎯 What is this project?
 
-This project is a fully functional **RAG (Retrieval Augmented Generation)** chatbot that:
+This project is a fully functional RAG (Retrieval Augmented Generation)** chatbot that:
 
 - 📄 Reads any PDF document you give it
 - 🔍 Converts the content into searchable vector embeddings
