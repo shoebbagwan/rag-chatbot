@@ -250,7 +250,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - [LangChain](https://python.langchain.com/) — for the excellent RAG framework
 - [Google Gemini](https://ai.google.dev/) — for the free-tier LLM and embeddings API
