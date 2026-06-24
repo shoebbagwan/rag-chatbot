@@ -207,7 +207,7 @@ You can tweak these settings in `ingest.py` and `chat.py`:
 ## 🐛 Common Issues
 
 **Rate limit error (RESOURCE_EXHAUSTED)**
-> The free Gemini tier allows 100 requests/min. The ingestion script handles this automatically with retry logic. Just let it run.
+> The free Gemini tier allows 100 requests/min. The ingestion script handles this automatically with retry logic just let it run.
 
 **API key not found**
 > Make sure `.env` file exists in the project root with `GOOGLE_API_KEY=your_key`
