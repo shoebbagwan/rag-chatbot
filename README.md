@@ -9,6 +9,8 @@
 ![FAISS](https://img.shields.io/badge/FAISS-VectorDB-purple?style=for-the-badge)
 
 ---
+<img width="949" height="623" alt="image" src="https://github.com/user-attachments/assets/a231ddd0-e3f1-4faa-93c3-263cba18c244" />
+
 
 ## 🎯 What is this project?
 
