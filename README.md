@@ -1,6 +1,6 @@
 # 📚 RAG Chatbot — Chat with Your PDF
 
-> An AI-powered chatbot that lets you ask questions about any PDF document using **Retrieval Augmented Generation (RAG)**. Built with LangChain, Google Gemini, FAISS, and Streamlit.
+> An AI-powered chatbot that lets you ask questions about any PDF document using **Retrieval Augmented Generation (RAG)**. Built with LangChain, Google Gemini, FAISS and Streamlit.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
 ![LangChain](https://img.shields.io/badge/LangChain-1.3.2-green?style=for-the-badge)
