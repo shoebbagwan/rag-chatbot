@@ -161,7 +161,7 @@ Once the app is running:
 1. Type your question in the chat box at the bottom
 2. The chatbot retrieves the top 5 most relevant chunks from your PDF
 3. Google Gemini generates an answer based only on that content
-4. If the answer isn't in the document, it tells you honestly
+4. If the answer isn't in the document it tells you honestly
 
 **Example questions (tested with "How to Talk to Anyone"):**
 - *"What is the Whatzit technique?"*
