@@ -8,8 +8,9 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers questions about your
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector%20DB-8A2BE2)
 
-![App screenshot](<img width="1235" height="556" alt="image" src="https://github.com/user-attachments/assets/01366792-cea2-4c4e-b3d8-a0d772995edd" />
-)
+App screenshot :
+<img width="1235" height="556" alt="image" src="https://github.com/user-attachments/assets/01366792-cea2-4c4e-b3d8-a0d772995edd" />
+
 
 ## ✨ Features
 
