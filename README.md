@@ -159,8 +159,5 @@ python ingest.py "data/book1.pdf" "data/book2.pdf"
 
 `data/` and `faiss_index/` are git-ignored on purpose. Don't commit copyrighted PDFs or indexes built from them to a public repository.
 
-## 👤 Author
-
-Built by **Shoeb** ([@shoebbagwan](https://github.com/shoebbagwan)).
 
 Contributions, issues and suggestions are welcome.
