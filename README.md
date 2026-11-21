@@ -147,14 +147,6 @@ python ingest.py "data/book1.pdf" "data/book2.pdf"
 - Retrieval is similarity-based only; table-of-contents and other front-matter pages can occasionally be retrieved alongside real content.
 - Answer quality depends on the retrieved passages, and a formal retrieval evaluation has not been published yet.
 
-## 🗺️ Roadmap
-
-- [ ] Retrieval evaluation script (hit@k on a labelled question set)
-- [ ] Live demo deployment
-- [ ] Hybrid search (keyword + embeddings) and reranking
-- [ ] Expose retrieval as an MCP server
-- [ ] Docker and CI
-
 ## 🔒 A note on documents
 
 `data/` and `faiss_index/` are git-ignored on purpose. Don't commit copyrighted PDFs or indexes built from them to a public repository.
